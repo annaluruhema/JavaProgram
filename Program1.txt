@@ -43,6 +43,6 @@ class gfg {
         int n1 = 50;
         int n2 = 500;
         ArmstrongNum(n1, n2);
-        System.out.println();
+        System.out.println("Added Comments");
     }
 }
