@@ -1,5 +1,4 @@
-// JAVA program to find Armstrong
-// numbers between two integers
+
 import java.io.*;
 import java.math.*;
 
